@@ -32,6 +32,39 @@
     "time": "11:00",
     "petsAllowed": false,
     "organizer": "Carey Wales"
+  },
+  {
+    "id": 59283441,
+    "category": "sport welfare",
+    "title": "Dogs Adoption Day",
+    "description": "Find your new feline friend at this event.",
+    "location": "bark Town",
+    "date": "January 12, 2022",
+    "time": "17:00",
+    "petsAllowed": true,
+    "organizer": "Lee Laydee"
+  },
+  {
+    "id": 45122397,
+    "category": "food & drinks",
+    "title": "Community Restaurants",
+    "description": "Join us as we tend to the community edible restaurants.",
+    "location": "Burger City",
+    "date": "March 31, 2022",
+    "time": "11:00",
+    "petsAllowed": false,
+    "organizer": "Big Pollin"
+  },
+  {
+    "id": 12353627,
+    "category": "ocean cleanup",
+    "title": "Eat plastic",
+    "description": "Help eating up plastic along the shore.",
+    "location": "Plastic Del Carmen",
+    "date": "July 12, 2022",
+    "time": "15:00",
+    "petsAllowed": true,
+    "organizer": "Plastic Face"
   }
 ]
 }
